@@ -1,7 +1,7 @@
 export const $PERSONS = [
   {
-    fullname: "youssef",
-    email: "contact.mansouriyoussef@gmail.com",
+    fullname: "anis",
+    email: "khalfaouianis3100@gmail.com",
     bio: "i'm fullstack developer",
     genre: "Homme",
     skills: ["NodeJs", "ReactJs", "TypeScript", "Redux", "AntDesign", "Git"],
